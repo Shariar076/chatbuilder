@@ -12,3 +12,8 @@ We are also documenting possible functionalities by exploring state-of-the-art s
 4. Ongoing UI Design: Designing the User Interface for the Instant Try feature.
 5. Initial Prototyping: Completed initial prototyping for the chatbot code generator.
 6. UI Design with Flutter: Ongoing work on designing the UI for visual bot builder using Flutter.
+
+# Update-3
+1. All the initial functionalities have been decided.
+2. Work on designing the UI is ongoing.
+3. Backend development is almost completed.
